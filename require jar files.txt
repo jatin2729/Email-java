@@ -1,0 +1,6 @@
+Download this jar files:
+
+sqlite-jdbc-3.23.jar
+rs2xml.jar
+
+using eclipse make sure to import this 2 files into project libraries. External jars
